@@ -1,4 +1,4 @@
-const APIKEY = "f3d03e28b438946862c0d751e04b1d6a";
+const API_KEY = "f3d03e28b438946862c0d751e04b1d6a";
 // the key was created from IMDB.com
 
 const requests = {
